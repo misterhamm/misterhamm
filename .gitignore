@@ -1,0 +1,11 @@
+# Build results
+bin/
+Build/
+obj/
+
+# NuGet Packages
+packages/*
+*.nupkg
+
+# Node modules
+node_modules/

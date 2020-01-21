@@ -1,1 +1,1 @@
-misterhamm
+Demo project for learning Sitefinity
